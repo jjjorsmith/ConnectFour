@@ -1,2 +1,2 @@
-# ConnectFoure
+# ConnectFour
 The game of connect four
